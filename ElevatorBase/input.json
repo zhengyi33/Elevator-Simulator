@@ -1,0 +1,10 @@
+{
+  "numFloors": 20,
+  "numElevators": 4,
+  "capacity": 10,
+  "timePerFloor": 1000,
+  "doorOpenTime": 2000,
+  "timeout": 10000,
+  "simulationDurationTime": 120,
+  "personCreationRate": 3
+}
