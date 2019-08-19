@@ -2,7 +2,7 @@
 
 I designed and implemented an elevator simulator using design patterns such as singleton, factory, strategy, façade and data transfer objects;
 
-I also designed and implemented the logic behind the operations of the elevators that make the elevators work efficiently;
+I also designed and implemented the logic behind the operations of the elevators that makes the elevators work efficiently;
 
 In addition, I modeled the components of the elevator system in a building and the riders that interact with it using 20 classes/interfaces in compliance with the best practices of software engineering;
 
